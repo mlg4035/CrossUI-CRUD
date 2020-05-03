@@ -29,7 +29,6 @@ xui.constant = {
 };
 // ]]Constant Data
 
-
 // [[Develop Env Setting
 xui.ini.$DevEnv = {
     "designViewConf":{
@@ -38,3 +37,8 @@ xui.ini.$DevEnv = {
     }
 };
 // ]]Develop Env Setting
+
+
+// [[Global Functions
+xui.$cache.functions = { };
+// ]]Global Functions
